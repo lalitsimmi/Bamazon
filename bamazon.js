@@ -83,6 +83,12 @@ function disProduct() {
                                         console.log("product quantity updated!");
                                     }
                                 });
+                            }
+                        }
+                    })
+                }
+            }
+        };
 
 
 
